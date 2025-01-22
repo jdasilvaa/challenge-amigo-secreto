@@ -9,7 +9,6 @@ El proyecto tiene la siguiente estructura de archivos:
 - `index.html`: El archivo HTML principal que contiene la estructura de la página.
 - `style.css`: Archivo de estilos CSS para la apariencia de la página.
 - `app.js`: Archivo JavaScript que contiene la lógica de la aplicación.
-- `assets/`: Carpeta que contiene imágenes utilizadas en la página.
 
 ## Funcionalidades
 
@@ -29,13 +28,9 @@ El proyecto tiene la siguiente estructura de archivos:
 - CSS
 - JavaScript
 
-## Capturas de Pantalla
-
-![Captura de Pantalla](assets/amigo-secreto.png)
-
 ## Autor
 
-- [Tu Nombre](https://github.com/tu-usuario)
+- jcda(https://github.com/jdasilvaa)
 
 ## Licencia
 
